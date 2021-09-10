@@ -2,11 +2,11 @@
 
 I'm a frontend developer with experience as a Graphic Designer, worked in a few advertisement companies before starting to work as a developer.
 
-- 🔭 You can find more projects that worked on my  [website](https://www.thaisquintana.com.br/)
+- 🔭 You can find more projects that I worked on my [website](https://www.thaisquintana.com.br/)
 
 - 👯 I’m looking to start a brand-new project/idea.
 
-- 📫 How to reach me on [linkedin](https://www.linkedin.com/in/thaisquintana/) or [email](mailto:thaisquintanap@gmail.com)
+- 📫 How to reach me: on [linkedin](https://www.linkedin.com/in/thaisquintana/) or [email](mailto:thaisquintanap@gmail.com)
 
 - ⚡ Fun fact: I love read comic books special indies comic books and everytime I'm visiting a new country I look for a comic book created by a native artist.
 
