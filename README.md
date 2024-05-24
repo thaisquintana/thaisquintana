@@ -8,7 +8,7 @@ I'm a frontend developer with experience as a Graphic Designer, worked in a few 
 
 - 📫 How to reach me: on [linkedin](https://www.linkedin.com/in/thaisquintana/) or [email](mailto:thaisquintanap@gmail.com)
 
-- ⚡ Fun fact: I love read comic books special indies comic books and everytime I'm visiting a new country I look for a comic book created by a native artist.
+- ⚡ Fun fact: I love read comic books special indies comic books and everytime I'm visiting a new country I look for a comic book created by a local artist.
 
 <!--
 **thaisquintana/thaisquintana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
